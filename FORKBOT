@@ -1,0 +1,10 @@
+[Branch]
+* FromUser *
+[ForkTo]
+Main
+[ForkMode]
+NoComment, NoReport, Disassociate, Clone, DelayTrue
+[Delay]
+50ms
+[TerminationMode]
+Default
